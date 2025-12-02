@@ -19,7 +19,7 @@ The final notebook includes:
 
 | File | Description |
 |------|-------------|
-| `module3_employment_project_ENHANCED.ipynb` | **Main Jupyter Notebook** with the entire workflow completed |
+| `Module 3 project.ipynb` | **Main Jupyter Notebook** with the entire workflow completed |
 | `Messy_Employment_India_Dataset.csv` | Original raw dataset used in the project |
 | `README.md` | Documentation and project description |
 
